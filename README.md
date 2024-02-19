@@ -3,7 +3,7 @@ body {
 text-align: justify}
 </style>
 
-[To Main page](https://audreyburki.github.io/Website/)
+[To Main page](https://valentinatretti.github.io/)
 
 ## Audrey Bürki
 <img src="./Audrey.jpeg" style="width:27%; border:1px solid; margin-right: 20px" align="left">
