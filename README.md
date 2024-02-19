@@ -18,9 +18,9 @@ Common underlying themes and goals in my research projects are (1) how to extend
 
 #### Other websites
 
-https://www.researchgate.net/profile/Audrey_Buerki 
+[https://www.researchgate.net/profile/Audrey_Buerki)
 
-https://osf.io/c6v0t/
+[https://osf.io/c6v0t/)
 
 #### [Publications](https://audreyburki.github.io/Publication-list/)  
 
