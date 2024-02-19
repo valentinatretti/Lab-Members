@@ -55,7 +55,7 @@ I obtained B.A. and M.A. degrees in Psychology and in Comparative Literature at 
 #### Research Interests
 My research mostly focuses on spoken word recognition and, as of recently, production. Besides that, I conduct empirical research in the field of literary reading. I enjoy a degree of variety, too, and you can find out about most of my work on my website.
 
-[https://filipnenadic.netlify.app/)
+https://filipnenadic.netlify.app/
 
  -------------------------------------------------------------
 ## Marie Hansen (PhD student)  
@@ -70,7 +70,7 @@ I obtained a B. Sc. in Logopedics with a focus on Neurosciences and Health Psych
 
 In my research, I capitalize on acoustical and durational features of speech to gain insights into the underlying cognitive processes of speech and language.  In my PhD project, I am focusing on planning processes in word and short utterance production. I also have a pronounced interest in statistical methods and Open Science.
 
-[https://www.researchgate.net/profile/Marie-Hansen-3osf.io/m53jh)
+https://www.researchgate.net/profile/Marie-Hansen-3osf.io/m53jh
 
 
  -------------------------------------------------------------
@@ -93,7 +93,7 @@ In 2014 I obtained a B.A in Linguistics from Qatar University, and in 2019 I com
 #### Research interests
 I am interested in the role of language-specific features of Arabic on language production processes, more precisely I want to investigate the role of Arabic morphological properties during the semantic encoding of nouns in healthy speakers. I will do so using simple picture naming tasks and the Picture-Word-Interference (PWI) paradigm.
 
-[https://www.researchgate.net/profile/Shereen_Elbuy)
+https://www.researchgate.net/profile/Shereen_Elbuy
 
  
 -------------------------------------------------------------  
